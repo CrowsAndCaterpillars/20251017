@@ -1,0 +1,19 @@
+  205  apt-get install espeak
+  206  sudo apt-get install espeak
+  210  pip install python-espeak
+  211  pip install espeakng-python
+  214  pip install espeak
+  215  sudo apt install espeak
+  216  espeak
+  217  sudo apt install espeakng
+  218  sudo apt-get install espeakng
+  220  sudo apt-get install espeak-ng
+  221  espeakng "hello kevin"
+  222  espeak-ng "hello kevin"
+  223  espeak-ng
+  224  pip install espeakng
+  247  espeak
+  251  espeakng
+  252  espeak-ng
+  253  history | grep 'espeak'
+  256  history | grep 'espeak' > pythong_espeak_commands.txt

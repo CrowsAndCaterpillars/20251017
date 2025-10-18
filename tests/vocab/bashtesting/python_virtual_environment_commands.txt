@@ -1,0 +1,5 @@
+  197  sudo apt install python3-venv
+  198  python3 -m venv .venv
+  199  source .venv/bin/activate
+  254  history | grep 'venv'
+  255  history | grep 'venv' > python_virtual_environment_commands.txt
